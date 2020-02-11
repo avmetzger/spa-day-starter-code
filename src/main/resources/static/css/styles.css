@@ -9,7 +9,9 @@ div {
     text-align: center;
     background-color: white;
 }
-
+label {
+    display: block;
+}
 h1 {
     margin: auto;
         width: 50%;
